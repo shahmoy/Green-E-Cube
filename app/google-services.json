@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "634053927218",
+    "project_id": "refined-clarity-306514",
+    "storage_bucket": "refined-clarity-306514.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634053927218:android:9643521036ec4578db772b",
+        "android_client_info": {
+          "package_name": "com.tonmoydeveloper.googlemap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "634053927218-mpm05fd0gm2lim251aidaco84gmsv2e0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANqBsCLnhZT_KJ5fR3hU8FUBQrxNz9-P4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "634053927218-mpm05fd0gm2lim251aidaco84gmsv2e0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
